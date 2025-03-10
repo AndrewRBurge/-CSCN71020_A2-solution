@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F012A8CB-7E09-45F7-B092-F8314CF17D53}|MSTest\\MSTest.vcxproj|C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F012A8CB-7E09-45F7-B092-F8314CF17D53}|MSTest\\MSTest.vcxproj|solutionrelative:MSTest\\MSTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|solutionrelative:BCSRec\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MSTest.cpp",
+              "DocumentMoniker": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp",
+              "RelativeDocumentMoniker": "MSTest\\MSTest.cpp",
+              "ToolTip": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp",
+              "RelativeToolTip": "MSTest\\MSTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T01:46:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.c",
               "RelativeDocumentMoniker": "BCSRec\\main.c",
