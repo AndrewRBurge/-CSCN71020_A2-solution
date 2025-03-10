@@ -3,6 +3,147 @@
 
 #include "main.h"
 
+//run test
+void testrunner1(int x, int y, int expected) {
+
+
+	int* length = x;
+	int* width = y;
+
+	int perimeter = getPerimeter(length, width);
+
+	//int expected = *length + *length + *width;
+
+	//output
+	if (perimeter == expected) {
+		printf("test1 passed\n");
+	}
+	else {
+		printf("failed test1\n");
+	}
+
+}
+
+
+void testrunner2(int x, int y, int expected) {
+
+	int* length = x;
+	int* width = y;
+
+	//int expected = *length * *width;
+
+
+	int area = getArea(length, width);
+
+
+	//output
+	if (area == expected) {
+		printf("test2 passed\n");
+	}
+	else {
+		printf("failed test2\n");
+	}
+
+}
+
+void testrunner3(int input, int expected) {
+
+	if (input >= 0 && input < 100) {
+		printf("test3 failed, invalid input\n");
+	}
+	//for test purpose we use a pre-recorded number
+	int testlength = 0;
+
+	int length = setLength(input, testlength);
+
+
+	//output
+	if (length == expected) {
+		printf("test3 passed\n");
+	}
+	else if (length == testlength){
+		printf("failed test3\n");
+		//output if no new length was recorded
+	}
+
+}
+
+
+
+void testrunner4(int input, int expected) {
+
+	if (input >= 0 && input < 100) {
+		printf("test4 failed, invalid input\n");
+		//check for invaild inputs
+	}
+
+	//for test purpose we use a pre-recorded number
+	int testwidth = 0;
+	
+	int width = setWidth(input, testwidth);
+
+
+	//output
+	if (width == expected) {
+		printf("test4 passed\n");
+
+	}
+	else if (width == testwidth) {
+		printf("failed test4\n");
+		//output if no new width was recorded
+	}
+
+}
+
+
+
+
+//set test inputs
+int main(void) {
+	//test setlength
+	
+	//test perfect conditions
+	testrunner3(6,5);
+
+	//test lowest input
+	testrunner3(6,1);
+
+	//test decimal point input
+	testrunner3(2, 2.5);
+
+	//test max input
+	testrunner3(99, 99);
+
+	//test invailid input
+	testrunner3(-5, -5);
+
+
+
+	//test setwidth
+	//test perfect conditions
+	testrunner4(6, 5);
+
+	//test lowest input
+	testrunner4(6, 1);
+
+	//test decimal point input
+	testrunner4(2, 2.5);
+
+	//test max input
+	testrunner4(99, 99);
+
+	//test invailid input
+	testrunner4(-5, -5);
+}
+
+
+
+
+
+
+
+
+/*
 void main() {
 	int length = 1;
 	int width = 1;
@@ -57,6 +198,7 @@ void main() {
 		}
 	}
 }
+*/
 
 int getIntInput(char message[]) {
 	int input;
@@ -70,15 +212,15 @@ int getIntInput(char message[]) {
 	return input;
 }
 
-void setLength(int input, int *length) {
+int setLength(int input, int length) {
 	if (input >= 0 && input < 100) {
-		*length = input;
+		length = input;
 	}
 }
 
-void setWidth(int input, int *width) {
+int setWidth(int input, int width) {
 	if (input > 0 && input <= 100) {
-		*width = input;
+		width = input;
 	}
 }
 

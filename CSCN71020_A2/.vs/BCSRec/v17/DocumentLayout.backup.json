@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|solutionrelative:BCSRec\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{851531C0-5BD9-4FAB-A4AF-B8CAC2072E3D}|BCSRec\\BCSRec.vcxproj|solutionrelative:BCSRec\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F012A8CB-7E09-45F7-B092-F8314CF17D53}|MSTest\\MSTest.vcxproj|C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F012A8CB-7E09-45F7-B092-F8314CF17D53}|MSTest\\MSTest.vcxproj|solutionrelative:MSTest\\MSTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.h",
+              "RelativeDocumentMoniker": "BCSRec\\main.h",
+              "ToolTip": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.h",
+              "RelativeToolTip": "BCSRec\\main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T04:07:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTest.cpp",
+              "DocumentMoniker": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp",
+              "RelativeDocumentMoniker": "MSTest\\MSTest.cpp",
+              "ToolTip": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\MSTest\\MSTest.cpp",
+              "RelativeToolTip": "MSTest\\MSTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T01:46:54.543Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "BCSRec\\main.c",
               "ToolTip": "C:\\ConProgramming\\Gitpractice\\CSCN71020_A1-main\\-CSCN71020_A2-solution\\CSCN71020_A2\\BCSRec\\main.c",
               "RelativeToolTip": "BCSRec\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAANkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T01:41:50.052Z",
               "EditorCaption": ""

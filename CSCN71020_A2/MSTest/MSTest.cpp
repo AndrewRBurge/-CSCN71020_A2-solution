@@ -11,6 +11,7 @@ namespace MSTest
 		
 		TEST_METHOD(TestMethod1)
 		{
+
 		}
 	};
 }

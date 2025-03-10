@@ -1,2 +1,10 @@
 ﻿  main.c
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(10,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(11,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(30,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(31,7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(112,17): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(130,17): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(219,1): warning C4716: 'setLength': must return a value
+C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\BCSRec\main.c(225,1): warning C4716: 'setWidth': must return a value
   BCSRec.vcxproj -> C:\ConProgramming\Gitpractice\CSCN71020_A1-main\-CSCN71020_A2-solution\CSCN71020_A2\x64\Debug\BCSRec.exe
